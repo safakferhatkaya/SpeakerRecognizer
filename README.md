@@ -15,6 +15,6 @@ Here are the sample outputs.
 ![image](https://user-images.githubusercontent.com/78663077/120869979-5cf60b80-c5a0-11eb-9b8b-90b480820b33.png)
 
 Here is the denoising filter's magnitude spectrum. 
-This is designed in pyfda, you can find it with the name a18_filter.mat.
+This is designed in pyfda, you can find it with the name a18_filtre.mat.
 
 ![image](https://user-images.githubusercontent.com/78663077/120870366-6b90f280-c5a1-11eb-8ba3-1e29ce3161c1.png)
