@@ -1,0 +1,2 @@
+You should move the test tools to the main folder and name them output0.wav and if you want to do that, 
+don't run the audio recording part in the code.
