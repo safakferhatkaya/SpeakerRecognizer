@@ -10,7 +10,7 @@ then the correlation coefficients were calculated using Kendall's method of
 correlation coefficients to calculate the similarities between the data. 
 Cumulative similarities are calculated and the person with the highest cumulative similarity is printed on the screen as the owner of the voice.
 
-Here are the sample outputs.
+Here is the sample output.
 
 ![image](https://user-images.githubusercontent.com/78663077/120869979-5cf60b80-c5a0-11eb-9b8b-90b480820b33.png)
 
